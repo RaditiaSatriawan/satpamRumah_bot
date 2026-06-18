@@ -15,7 +15,7 @@ TOPIC_NODE2 = "iot/kelasC/kelompok03/node2/data"
 
 # --- Kredensial Telegram ---
 # Ganti teks di bawah dengan token dari BotFather
-TELEGRAM_TOKEN = "TOKEN_BOT_ANDA_DISINI" 
+TELEGRAM_TOKEN = "8318055528:AAF7hmI1BLWz-p4QRHtyilzHWA1M7JmFHWU" 
 # ID Grup IOT Anda
 CHAT_ID = "-5246241932" 
 
